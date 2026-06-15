@@ -181,7 +181,7 @@ st.write("**Built With:** ❤️ Python + Streamlit")
 
 st.header("🔗 Portfolio Links")
 
-st.write("GitHub: https://github.com/angelsharon20")
+st.write("GitHub: https://github.com/Angelsharon20")
 
 st.write("LinkedIn: https://linkedin.com/in/angelsharon20")
 
